@@ -16,5 +16,11 @@ const job = "teacher";
 const birthYear = 1991;
 // const jonas = "I'm " + firstName + ', a ' + (2037-birthYear) + " years old " + job + ' !'
 // console.log(jonas);
+// template literals :
 const jonasNew = `I'm ${firstName}, a ${2037-birthYear} year old ${job}`;
 console.log(jonasNew);
+
+console.log("String with \n\multiple \n\lines")
+console.log(`String
+multiple
+lines`)
