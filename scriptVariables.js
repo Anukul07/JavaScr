@@ -1,13 +1,13 @@
-/*let country ="Nepal";
-let continent ="Asia";
-let population ="30Million";
-console.log(country);
-console.log(continent);
-console.log(population);*/
-
-let javaScriptIsFun = true;
-console.log(javaScriptIsFun);
-console.log(typeof true);
-console.log(typeof 23);
-console.log(typeof "Anukul");
-    
+/* let javascriptIsFun = true;
+// console.log(true)
+// console.log(typeof true);
+console.log(typeof javascriptIsFun);
+// console.log(typeof 23);
+// console.log(typeof Jonas);
+javascriptIsFun = 'Yes!';
+console.log(typeof javascriptIsFun);
+let year;
+console.log(year);
+console.log(typeof year);
+year = 1991;
+console.log(typeof year); */
