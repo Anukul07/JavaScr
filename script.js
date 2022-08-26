@@ -6,3 +6,4 @@ let firstName = "Acool";
 let firstName = "Acool";
 console.log(firstName);
 let jonas1Matilda ='JM'; */
+
