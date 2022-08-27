@@ -7,7 +7,7 @@ let firstName = "Acool";
 console.log(firstName);
 let jonas1Matilda ='JM'; */
 
-const day = 'fayday';
+/* const day = 'fayday';
 switch(day) {
     case 'Monday':  // day === 'monday'
         console.log('Plan course structure');
@@ -30,3 +30,15 @@ switch(day) {
     default:
         console.log('Not a valid day!');          
 }
+ */
+
+// ternary operator :
+const age = 25 ;
+age >= 18 ? console.log('I like to drink wine') : 
+console.log('I like to drink water');
+
+const drink = age>=18 ? 'wine' : 'Water'
+console.log(drink);
+
+console.log(`I like to drink ${age>=18 ? 'wine' : 'Water'}`);
+
